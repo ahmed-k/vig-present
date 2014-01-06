@@ -128,12 +128,13 @@ width:300px;
 top: 13px;
 left: 100px;
 height:75px;
-border-top: 1px dashed white;
+/*border-top: 1px dashed white;
 border-bottom: 1px dashed white;
 border-right: 1px dashed white;
 border-left: 1px dashed transparent;
 border-top-right-radius: 50px;
 border-bottom-right-radius: 50px;
+*/
 font: lighter 7px; 
 color: white;
 	font-family: "calluna-sans", sans-serif; 
